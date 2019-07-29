@@ -43,7 +43,7 @@ Contributions are always welcome! Please feel free to send me [pull requests](ht
 ### Podcasts
 
 * The Energy Transition Show: Lifecycle Assessment [![Spotify](./imgs/spotifyLogo.svg)](https://open.spotify.com/episode/0bPC7VKWiYupjLMk8x8GTv) [![iTunes](./imgs/iTunesLogo.svg)](https://podcasts.apple.com/us/podcast/episode-59-lifecycle-assessment/id1042713378?i=1000398510949)
-* IEAM Podcast: Reuse it or lose it! Using LCA to quantify the environmental benefits of reuse, with Valentina Castellani [![Spotify](./imgs/spotifyLogo.svg)](https://open.spotify.com/episode/0bPC7VKWiYupjLMk8x8GTv) [![iTunes](./imgs/iTunesLogo.svg)](https://podcasts.apple.com/us/podcast/reuse-it-or-lose-it-using/id426676729?i=1000346733843&mt=2)
+* IEAM Podcast: Reuse it or lose it! Using LCA to quantify the environmental benefits of reuse, with Valentina Castellani [![YouTube](./imgs/youTubeLogo.svg)](https://www.youtube.com/watch?v=7KecQNSVxds&feature=youtu.be) [![iTunes](./imgs/iTunesLogo.svg)](https://podcasts.apple.com/us/podcast/reuse-it-or-lose-it-using/id426676729?i=1000346733843&mt=2)
 
 ### Blogs
 
