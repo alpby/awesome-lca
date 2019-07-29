@@ -3,7 +3,7 @@
 A curated list of awesome LCA resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
 ## Contributing and Collaborating
-Contributions are always welcome! Please feel free to send me [pull requests](https://github.com/alpby/awesome-lca/pulls) or email (alper.bayram.001@student.uni.lu) to add links. Please see [contributors](https://github.com/ziadoz/awesome-php/blob/master/people.md) for the list of awesome LCA people.
+Contributions are always welcome! Please feel free to send me [pull requests](https://github.com/alpby/awesome-lca/pulls) or email (alper.bayram.001@student.uni.lu) to add links. 
 
 ## Table of Contents
 
@@ -33,7 +33,7 @@ Contributions are always welcome! Please feel free to send me [pull requests](ht
 ### Software
 
 * [Brigtway2](https://brightwaylca.org/) - An open source framework for LCA.
-* [openLCA](http://www.openlca.org/) - An open source framework for Sustainability assessment and LCA managed by [GreenDelta](https://www.greendelta.com/).
+* [openLCA](http://www.openlca.org/) - An open source framework for sustainability assessment and LCA managed by [GreenDelta](https://www.greendelta.com/).
 
 ### Datasets
 
