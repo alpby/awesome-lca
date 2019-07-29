@@ -3,7 +3,7 @@
 A curated list of awesome LCA resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
 ## Contributing and Collaborating
-Contributions are always welcome! Please feel free to send me [pull requests](https://github.com/alpby/awesome-lca/pulls) or email (alper.bayram.001@student.uni.lu) to add links. 
+Contributions are always welcome! Please feel free to send me [pull requests](https://github.com/alpby/awesome-lca/pulls) or email (alper.bayram.001@student.uni.lu) to add links. You can look at [contributors](./people.md) to see the list of awesome LCA people.
 
 ## Table of Contents
 
@@ -25,6 +25,7 @@ Contributions are always welcome! Please feel free to send me [pull requests](ht
 
 * [Carnegie Mellon University: Environmental Life Cycle Assessment](https://app.boxcn.net/s/5mnzyq1y3gcyjrveubf4) - Lecture notes, slides and course material.
 * [MIT: Green Supply Chain Management](https://ocw.mit.edu/courses/engineering-systems-division/esd-s43-green-supply-chain-management-spring-2014/lecture-notes-and-videos/lecture-5-life-cycle-analysis/) - A lecture exclusively mention about LCA.
+* [University of Freiburg: Industrial Ecology Open Online Course](http://www.teaching.industrialecology.uni-freiburg.de/#LCA) - A collection of web content on industrial ecology.
 
 ### Papers
 
