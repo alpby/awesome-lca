@@ -3,7 +3,7 @@
 A curated list of awesome LCA resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
 ## Contributing and Collaborating
-Contributions are always welcome! Please feel free to send me [pull requests](https://github.com/alpby/awesome-lca/pulls) or email (alper.bayram.001@student.uni.lu) to add links. You can look at [contributors](./people.md) to see the list of awesome LCA people.
+Contributions are always welcome! Please feel free to send me [pull requests](https://github.com/alpby/awesome-lca/pulls) or email (alper.bayram@list.lu) to add links. You can look at [contributors](./people.md) to see the list of awesome LCA people.
 
 ## Table of Contents
 
@@ -48,3 +48,5 @@ Contributions are always welcome! Please feel free to send me [pull requests](ht
 ### Blogs
 
 * [2.-0 LCA consultants](https://lca-net.com/blog/)
+* [Consequential LCA](https://consequential-lca.org/)
+* [Designlife-cycle.com]http://www.designlife-cycle.com/
