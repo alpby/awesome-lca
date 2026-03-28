@@ -33,12 +33,7 @@ Contributions are always welcome! Please feel free to send me [pull requests](ht
 - **[Introduction to LCA: Thinkstep](https://www.thinkstep-anz.com/assets/Download-files/Need-to-Know/LCA-Need-to-Know-v1.pdf)** - A basic guide on LCA and its benefits by Thinkstep (now part of Sphera).
 - **[Harvard LCA Course](https://canvas.harvard.edu/courses/50207)** - Harvard's online learning resource and coursework on LCA (free access with registration).
 - **[Future Learn - LCA Course](https://www.futurelearn.com/courses/life-cycle-assessment)** - A short online course explaining LCA concepts and methodology.
-- **[UNEP LCA Training Kit](https://www.lifecycleinitiative.org/resources/training-materials/)** - United Nations Environment Programme’s (UNEP) comprehensive training kit for LCA.
 - **[iPoint LCA Webinars](https://www.ipoint-systems.com/resources/webinars/)** - Series of webinars hosted by iPoint focusing on LCA methodologies and industry applications.
-- **[PRé Sustainability Webinars](https://pre-sustainability.com/academy/#webinars)** - Webinars and online training sessions on SimaPro and LCA methods, hosted by PRé Sustainability.
-- **[Udemy LCA Course](https://www.udemy.com/course/introduction-to-life-cycle-assessment-lca/)** - An introductory course on LCA for beginners offered on Udemy.
-- **[LCA eBook by PRé Sustainability](https://pre-sustainability.com/articles/free-ebook-guide-to-lca-key-concepts-and-steps/)** - Free downloadable eBook that covers key concepts of LCA.
-- **[ecoinvent LCA Webinars](https://www.ecoinvent.org/support/webinars/webinars.html)** - Webinars and training sessions offered by ecoinvent focusing on the use of the ecoinvent database in LCA.
 
 ### Conferences and Workshops
 
@@ -156,20 +151,17 @@ Official standards and frameworks help ensure consistency in LCA methodology.
 
 ### Podcasts
 
-- **[The Energy Transition Show: Lifecycle Assessment](https://open.spotify.com/episode/0bPC7VKWiYupjLMk8x8GTv)**
 - **[Sustainability Explored](https://open.spotify.com/show/2VIxlqM29dbUFyINpuZoJL)** - A podcast covering various sustainability topics, including Life Cycle Assessment. Some episodes feature LCA experts and real-world applications.
 - **[Sustainababble](https://www.sustainababble.fish/)** - A lighthearted podcast discussing environmental issues, with some episodes touching on the importance of LCA in sustainability.
 - **[The Circular Economy Podcast](https://www.rethinkglobal.info/podcast/)** - Explores how LCA supports circular economy strategies, with interviews from industry experts, discussing real-world applications.
 - **[The Sustainability Agenda](https://www.thesustainabilityagenda.com/)** - Focuses on in-depth interviews with sustainability experts, with episodes discussing how LCA can be used as a tool to measure environmental impacts.
-- **[Talking LCA](https://open.spotify.com/show/4kfzqKZWkRCxyOBgiOS0nn)** - A dedicated podcast that focuses solely on LCA topics. The podcast covers methodology, applications, and interviews with LCA experts.
 - **[The Green Element Podcast](https://www.greenelement.co.uk/podcast/)** - A podcast that delves into sustainability strategies, with a focus on LCA as a tool for environmental improvement in businesses.
 - **[IEAM Podcast](https://shows.acast.com/ieam-podcast/episodes/reuse-it-or-lose-it-using-lca-to-quantify-the-environmental)**: Reuse it or lose it! Using LCA to quantify the environmental benefits of reuse, with Valentina Castellani
-- 
+
 ### YouTube Videos
 
 - **[What is Life Cycle Assessment? (Intro by PRé Sustainability)](https://www.youtube.com/watch?v=YDkQJm8722s)** - A short video introducing the basics of LCA and its role in sustainability.
 - **[Life Cycle Thinking - UN Environment Programme](https://www.youtube.com/watch?v=ZYP0AGbY2X4)** - An overview of life cycle thinking and how LCA contributes to sustainable decision-making, presented by UNEP.
-- **[GaBi Software Tutorial - Basics of Life Cycle Assessment](https://www.youtube.com/results?search_query=GaBi+Software+Tutorial+-+Basics+of+Life+Cycle+Assessment)** - A tutorial on how to use GaBi software for conducting LCAs, ideal for beginners.
 - **[ecoinvent in a nutshell](https://www.youtube.com/watch?v=Pn82GbBx8UM)** - A video introducing the ecoinvent database and its role in supporting LCA projects across industries.
 - **[OpenLCA Tutorial for Beginners](https://www.youtube.com/watch?v=UFXOIMqX_0Y&list=PLYUbUc5J4RHsfwmu8XUUHpUa4zOuYY58P)** - A step-by-step guide on how to perform LCA using OpenLCA software.
 - **[SimaPro Software Introduction](https://www.youtube.com/watch?v=ebipiOkgLz0)** - A comprehensive overview of how to use SimaPro software for conducting LCAs.
@@ -180,56 +172,12 @@ Official standards and frameworks help ensure consistency in LCA methodology.
 
 - **[Climat, Énergie et Environnement](https://energieclimat.hypotheses.org/)** - A research blog that covers climate, energy, and LCA, with articles on environmental sustainability, carbon footprints, and circular economy approaches.
 - **[ADEME - Agence de la Transition Écologique](https://www.ademe.fr/)** - ADEME’s website and blog provide regular updates on LCA, environmental sustainability, and policy developments in the context of French environmental regulations.
-- **[Cycleco Blog](https://www.cycleco.eu/blog/)** - A French blog focusing on life cycle analysis (ACV), eco-design, and environmental product declarations, with industry-specific case studies and tool recommendations.
+- **[Cycleco Blog](https://www.cycleco.eu/)** - A French blog focusing on life cycle analysis (ACV), eco-design, and environmental product declarations, with industry-specific case studies and tool recommendations.
 - **[Evea Blog](https://evea-conseil.com/en)** - Focuses on LCA in French, offering articles on sustainability, life cycle thinking, and eco-design for various sectors.
 
-### 2. **Spanish**
-
-- **[Blog Sostenibilidad y ACV (GaBi LATAM)](https://latam.gabi-software.com/blog/)** - A blog in Spanish by GaBi Latin America covering Life Cycle Assessment (ACV in Spanish), eco-efficiency, and sustainable product development.
-- **[Sostenibilidad para Todos (Sustainability for All)](https://www.sostenibilidad.com/)** - Focuses on sustainability, energy efficiency, and LCA with Spanish-language content geared towards both businesses and consumers.
-- **[CeroCO2 Blog](https://www.ceroco2.org/blog)** - A Spanish blog discussing topics such as carbon footprints, ACV, and sustainability strategies to mitigate environmental impact.
-
-### 3. **German**
-
-- **[Ökobilanz (Life Cycle Assessment) Blog - IFEU](https://www.ifeu.de/blog/)** - IFEU’s German blog on LCA, offering deep insights into the science behind life cycle assessments and their application in industries such as energy, construction, and transportation.
-- **[Ecocockpit](https://www.ecocockpit.de/de-de/)** - A German blog providing tools and case studies for LCA (Ökobilanz) to help companies reduce their carbon footprint and improve sustainability practices.
-
-### 4. **Italian**
-
-- **[Ecoinnovazione Blog](http://www.ecoinnovazione.it/blog/)** - An Italian blog by Ecoinnovazione covering LCA, circular economy, eco-design, and sustainable product development.
-- **[SimaPro Italia](https://simapro.it/blog/)** - SimaPro Italy’s blog focusing on LCA tools, methodologies, and case studies for sustainability professionals.
-
-### 5. **Portuguese**
-
-- **[ACV Brasil (EcoLife)](http://www.acvbrasil.com.br/blog)** - A Portuguese-language blog focused on Life Cycle Assessment in Brazil, offering articles on methodologies, tools, and case studies in various sectors.
-- **[Sustentabilidade Corporativa (SimaPro Brasil)](https://simapro.com.br/blog/)** - A blog in Portuguese covering sustainability, LCA (ACV), and environmental management for corporations in Brazil.
-
-### 6. **Dutch**
-
-- **[Milieu Centraal Blog](https://www.milieucentraal.nl/blogs/)** - A Dutch blog offering practical advice on sustainability and environmental impact assessments, including life cycle analysis (LCA).
-- **[LCA Netwerk Nederland](https://www.lcanetwerk.nl/blog/)** - A Dutch blog that provides updates on LCA, eco-design, and sustainability projects in the Netherlands.
-
 ### 7. **English**
-- **[PRé Sustainability Blog](https://pre-sustainability.com/insights/)** - PRé Sustainability’s blog features articles on LCA methodologies, case studies, and tools, with a focus on helping businesses implement life cycle thinking. It covers a wide range of industries, including food, fashion, and construction.
-
-- **[Greenbiz](https://www.greenbiz.com/)** - Greenbiz is a leading source for news on sustainability, circular economy, and corporate responsibility. It regularly publishes content on LCA, including its role in sustainable product development and corporate sustainability strategies.
-
+- **[PRé Sustainability](https://pre-sustainability.com/)** - PRé Sustainability’s blog features articles on LCA methodologies, case studies, and tools, with a focus on helping businesses implement life cycle thinking. It covers a wide range of industries, including food, fashion, and construction.
+- **[Trellis](https://www.trellis.net/)** - Greenbiz is a leading source for news on sustainability, circular economy, and corporate responsibility. It regularly publishes content on LCA, including its role in sustainable product development and corporate sustainability strategies.
 - **[Sphera Sustainability Blog](https://www.sphera.com/blog/)** - Sphera’s blog focuses on LCA, environmental management, and EHS (Environment, Health, and Safety) topics. It provides insights into how LCA tools like GaBi help companies reduce their environmental impact and improve sustainability.
-
-- **[Thinkstep Blog](https://www.thinkstep.com/blog)** - The Thinkstep (now Sphera) blog offers insights on LCA, product sustainability, and environmental compliance, featuring case studies from various sectors like automotive, energy, and consumer goods.
-
-- **[SimaPro Blog](https://simapro.com/blog/)** - SimaPro’s blog delivers updates on LCA tools, software, and case studies. It explores the latest developments in life cycle thinking, eco-design, and the practical application of LCA in business and product development.
-
 - **[Sustainability Matters](https://sustainabilitymattersdaily.com/)** - This blog covers a wide range of sustainability topics, including LCA. The blog’s LCA-related posts explain the methodology, its importance in reducing environmental impacts, and real-world applications.
-
 - **[Circular Ecology Blog](https://circularecology.com/blog.html)** - Circular Ecology’s blog covers topics related to sustainability, circular economy, and LCA, with a focus on embodied energy and carbon footprints. It offers insights into how LCA can drive more sustainable practices in construction and energy sectors.
-
-- **[LCA Collaboration Blog](https://www.lifecycleinitiative.org/news/)** - Hosted by the Life Cycle Initiative, this blog promotes global collaboration on life cycle thinking. It includes updates on LCA methodologies, research papers, and the latest news from life cycle initiatives around the world.
-
-- **[Environmental Leader](https://www.environmentalleader.com/)** - A leading news source for sustainability and energy professionals, Environmental Leader offers regular updates on LCA and environmental performance, particularly focusing on corporate strategies for reducing carbon footprints and improving resource efficiency.
-
-- **[Triple Pundit](https://www.triplepundit.com/)** - This sustainability blog covers a wide array of topics, including corporate sustainability, LCA, and the circular economy. Triple Pundit often discusses how companies are integrating LCA into their environmental and sustainability strategies.
-
-- **[EarthShift Global Blog](https://www.earthshiftglobal.com/blog)** - EarthShift Global offers deep dives into LCA tools and methods, with a focus on helping businesses incorporate life cycle thinking into their sustainability initiatives. The blog also covers topics like eco-design and environmental performance tracking.
-
-- **[Sustainable Brands](https://sustainablebrands.com/)** - A global community focused on advancing sustainability, Sustainable Brands frequently features blog posts on LCA and how brands are using it to inform product design, reduce carbon footprints, and enhance sustainability.
