@@ -175,7 +175,7 @@ Official standards and frameworks help ensure consistency in LCA methodology.
 - **[Cycleco Blog](https://www.cycleco.eu/)** - A French blog focusing on life cycle analysis (ACV), eco-design, and environmental product declarations, with industry-specific case studies and tool recommendations.
 - **[Evea Blog](https://evea-conseil.com/en)** - Focuses on LCA in French, offering articles on sustainability, life cycle thinking, and eco-design for various sectors.
 
-### 7. **English**
+### 2. **English**
 - **[PRé Sustainability](https://pre-sustainability.com/)** - PRé Sustainability’s blog features articles on LCA methodologies, case studies, and tools, with a focus on helping businesses implement life cycle thinking. It covers a wide range of industries, including food, fashion, and construction.
 - **[Trellis](https://www.trellis.net/)** - Greenbiz is a leading source for news on sustainability, circular economy, and corporate responsibility. It regularly publishes content on LCA, including its role in sustainable product development and corporate sustainability strategies.
 - **[Sphera Sustainability Blog](https://www.sphera.com/blog/)** - Sphera’s blog focuses on LCA, environmental management, and EHS (Environment, Health, and Safety) topics. It provides insights into how LCA tools like GaBi help companies reduce their environmental impact and improve sustainability.
