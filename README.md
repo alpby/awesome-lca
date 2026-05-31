@@ -75,6 +75,7 @@ Contributions are always welcome! Please feel free to send me [pull requests](ht
 - **[GaBi](https://www.gabi-software.com/international/index/)** - Comprehensive LCA software with access to industry-specific data.
 - **[Brightway2](https://brightway.dev/)** - Python-based framework for advanced LCA modeling.
 - **[ecoinvent](https://www.ecoinvent.org/)** - One of the leading life cycle inventory databases, compatible with major LCA tools.
+- **[Volca](https://volca.run)** - Open-source toolkit for inspecting and working with life-cycle inventory databases, with CLI, desktop, API/server, Python, and MCP interfaces.
 
 ### Databases
 
